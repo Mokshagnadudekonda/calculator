@@ -47,3 +47,15 @@ button {
 .border1 {
   border-bottom-left-radius: 6px;
 }
+
+.digit:hover {
+  background-color: #d9d9d9;
+}
+
+.operator:hover {
+  background-color: #c77907;
+}
+
+.fun-keys:hover {
+  background-color: #aba9a9;
+}
